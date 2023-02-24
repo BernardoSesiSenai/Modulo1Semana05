@@ -1,0 +1,1 @@
+Esse diretório está a resolução dos exercícios da semana 5.
